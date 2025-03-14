@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+=======
+This is a update 
+here its new change
+change is merge conflicts
+hello there
+I am adding new line
+>>>>>>> 1e51622 (Squash of last 3 commits)
